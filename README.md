@@ -40,7 +40,7 @@ I wanted my pages to be simple in the way that there aren't too many elements. F
 
 ## Live Demo
 
-- 
+- https://medp33100.github.io/project-1-nishattj/
 
 ## Credits
 
