@@ -6,7 +6,7 @@ let tickingSound = document.getElementById("clock-ticking-sound");
 let footstepsSound = document.getElementById("footsteps-sound"); 
 
 tickingSound.volume = 1.0; 
-footstepsSound.volume = 0.1; 
+footstepsSound.volume = 0.2; 
 
 function playSounds() {
     tickingSound.play().catch(error => {

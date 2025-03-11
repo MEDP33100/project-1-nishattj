@@ -52,6 +52,8 @@ Footsteps Sound: https://pixabay.com/sound-effects/search/footsteps/→
 
 Sound Issue Code: https://github.com/zmxv/react-native-sound/issues/438 
 
+Font:https://fonts.google.com/specimen/MedievalSharp
+
 https://www.w3schools.com/
 
 Also used class examples as guidelines 
